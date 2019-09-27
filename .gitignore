@@ -1,0 +1,10 @@
+*~
+*.swp
+
+/*
+!*.gitignore
+!.gitlab-ci.yml
+!pom.xml
+!CONTRIBUTING.md
+!README.md
+!release.sh
